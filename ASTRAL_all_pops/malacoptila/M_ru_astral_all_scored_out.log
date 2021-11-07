@@ -1,0 +1,26 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.7.3
+Gene trees are treated as unrooted
+4102 trees read from Filtered_all.trees
+Scoring M_ru_astral_all_out.tre
+Scoring: 1 trees
+Number of taxa: 51 (10 species)
+Taxa: {Mach_North=[M_ru_T476_ma, M_ru_T368_ma, M_ru_T381_ma, M_ru_T494_ma], ref=[reference], Inam=[M_ru_T23245_In, M_ru_T14456_In, M_ru_T23478_In, M_ru_A7875_In, M_ru_T23246_In, M_ru_T23416_In], Mach_South=[M_ru_A474_ma, M_ru_T3164_ma, M_ru_J265_ma, M_ru_T13253_ma], Para=[M_ru_T11079_pa, M_ru_T19782_pa, M_ru_A16195_pa, M_ru_T6500_pa, M_ru_T1649_pa, M_ru_T6577_pa, M_ru_T16553_pa, M_ru_T11238_pa, M_ru_A9235_pa, M_ru_T12541_pa], Roar=[M_ru_J640_roar, M_ru_J676_roar], SuTa=[M_ru_A5487_suta, M_ru_T14532_suta, M_ru_78182_suta, M_ru_A9903_pa, M_ru_T14622_suta, M_ru_77750_suta, M_ru_T10184_suta, M_ru_A15176_suta, M_ru_85919_suta, M_ru_T753_suta, M_ru_T11780_suta, M_ru_A11834_suta], ArSu=[M_ru_81347_arsu, M_ru_80819_arsu, M_ru_85426_arsu], JiGu=[M_ru_T7634_jigu, M_ru_A207_jigu, M_ru_T3228_jigu], Puru=[M_ru_A436_pu, M_ru_A2741_pu, M_ru_A10311_pu, M_ru_A10329_pu, M_ru_A440_pu, M_ru_A1380_pu]}
+Taxon occupancy: {M_ru_J640_roar=4068, M_ru_T7634_jigu=4074, M_ru_T11079_pa=3183, M_ru_T476_ma=4030, M_ru_A474_ma=3889, M_ru_T23245_In=3812, reference=4102, M_ru_J676_roar=3299, M_ru_A5487_suta=4031, M_ru_A436_pu=3989, M_ru_T368_ma=3993, M_ru_T14456_In=3971, M_ru_T14532_suta=4007, M_ru_A2741_pu=3993, M_ru_T19782_pa=3779, M_ru_78182_suta=4042, M_ru_A16195_pa=3992, M_ru_T6500_pa=3925, M_ru_A9903_pa=4076, M_ru_T1649_pa=4036, M_ru_A10311_pu=3864, M_ru_A207_jigu=4039, M_ru_T6577_pa=4023, M_ru_T14622_suta=4089, M_ru_81347_arsu=4080, M_ru_A10329_pu=3456, M_ru_T16553_pa=4050, M_ru_T381_ma=3882, M_ru_80819_arsu=4063, M_ru_T11238_pa=4064, M_ru_A9235_pa=4046, M_ru_77750_suta=4075, M_ru_T494_ma=3895, M_ru_A440_pu=4065, M_ru_T23478_In=3956, M_ru_A7875_In=4018, M_ru_T3164_ma=3224, M_ru_T3228_jigu=3176, M_ru_T10184_suta=3643, M_ru_A1380_pu=3838, M_ru_A15176_suta=3649, M_ru_T12541_pa=3973, M_ru_J265_ma=3925, M_ru_T753_suta=3709, M_ru_85919_suta=3673, M_ru_T11780_suta=3983, M_ru_A11834_suta=3489, M_ru_85426_arsu=4085, M_ru_T23246_In=3948, M_ru_T13253_ma=4056, M_ru_T23416_In=4046}
+Number of gene trees: 4102
+2463 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 848897732
+Polytree building time: 0.907 seconds.
+Counting unresolvable quartets ... 56258484
+Number of quartet trees in the gene trees: 792639248
+Final quartet score is: 356259969
+Final normalized quartet score is: 0.44946041960314337
+((M_ru_J640_roar,M_ru_J676_roar)0.02:0.0,(((M_ru_A5487_suta,M_ru_T14532_suta,M_ru_78182_suta,M_ru_A9903_pa,M_ru_T14622_suta,M_ru_77750_suta,M_ru_T10184_suta,M_ru_A15176_suta,M_ru_85919_suta,M_ru_T753_suta,M_ru_T11780_suta,M_ru_A11834_suta)0.39:0.0021578856722598494,(M_ru_81347_arsu,M_ru_80819_arsu,M_ru_85426_arsu)1:0.061061182324533614)0.77:0.01447425553312827,((M_ru_T476_ma,M_ru_T368_ma,M_ru_T381_ma,M_ru_T494_ma)1:0.042524653122949146,((M_ru_T11079_pa,M_ru_T19782_pa,M_ru_A16195_pa,M_ru_T6500_pa,M_ru_T1649_pa,M_ru_T6577_pa,M_ru_T16553_pa,M_ru_T11238_pa,M_ru_A9235_pa,M_ru_T12541_pa)1:0.25404100865330137,(((M_ru_T23245_In,M_ru_T14456_In,M_ru_T23478_In,M_ru_A7875_In,M_ru_T23246_In,M_ru_T23416_In)1:0.23852336314935565,((M_ru_A436_pu,M_ru_A2741_pu,M_ru_A10311_pu,M_ru_A10329_pu,M_ru_A440_pu,M_ru_A1380_pu)1:0.10556002563268975,((M_ru_T7634_jigu,M_ru_A207_jigu,M_ru_T3228_jigu)1:0.07855901990066527,(M_ru_A474_ma,M_ru_T3164_ma,M_ru_J265_ma,M_ru_T13253_ma)1:0.036102169007178324)0.77:0.016073154232397226)1:0.04510457642480114)1:0.10359788299282184,reference)1:0.0707283893042013)1:0.12860017003569507)0.8:0.015824625599601523)0:0.0);
+Scored tree with gene names:
+((M_ru_J640_roar,M_ru_J676_roar)0.02:0.0,(((M_ru_A5487_suta,M_ru_T14532_suta,M_ru_78182_suta,M_ru_A9903_pa,M_ru_T14622_suta,M_ru_77750_suta,M_ru_T10184_suta,M_ru_A15176_suta,M_ru_85919_suta,M_ru_T753_suta,M_ru_T11780_suta,M_ru_A11834_suta)0.39:0.0021578856722598494,(M_ru_81347_arsu,M_ru_80819_arsu,M_ru_85426_arsu)1:0.061061182324533614)0.77:0.01447425553312827,((M_ru_T476_ma,M_ru_T368_ma,M_ru_T381_ma,M_ru_T494_ma)1:0.042524653122949146,((M_ru_T11079_pa,M_ru_T19782_pa,M_ru_A16195_pa,M_ru_T6500_pa,M_ru_T1649_pa,M_ru_T6577_pa,M_ru_T16553_pa,M_ru_T11238_pa,M_ru_A9235_pa,M_ru_T12541_pa)1:0.25404100865330137,(((M_ru_T23245_In,M_ru_T14456_In,M_ru_T23478_In,M_ru_A7875_In,M_ru_T23246_In,M_ru_T23416_In)1:0.23852336314935565,((M_ru_A436_pu,M_ru_A2741_pu,M_ru_A10311_pu,M_ru_A10329_pu,M_ru_A440_pu,M_ru_A1380_pu)1:0.10556002563268975,((M_ru_T7634_jigu,M_ru_A207_jigu,M_ru_T3228_jigu)1:0.07855901990066527,(M_ru_A474_ma,M_ru_T3164_ma,M_ru_J265_ma,M_ru_T13253_ma)1:0.036102169007178324)0.77:0.016073154232397226)1:0.04510457642480114)1:0.10359788299282184,reference)1:0.0707283893042013)1:0.12860017003569507)0.8:0.015824625599601523)0:0.0);
+Weight calculation took 3.23647184 secs
+ASTRAL finished in 9.584 secs
