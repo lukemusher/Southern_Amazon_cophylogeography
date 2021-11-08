@@ -1,2 +1,3 @@
 # Southern_Amazon_cophylogeography
- Data and code for Musher et al in reivew
+# Data and code for Musher et al in reivew
+# Jupyter Notebooks adapted from ipyrad analysis-tools cookbooks 
